@@ -1,0 +1,9 @@
+Each line in the trace files denotes a pulse event time.
+
+Procedure followed to obtain this data:
+
+1. Capture video of a user's fingertip using Android mobile phone.
+2. Get the amount of red color in each frame in the video.
+3. Smooth the signal using Gaussian filter and denote all peaks as pulse events.
+
+This is collected from two users.

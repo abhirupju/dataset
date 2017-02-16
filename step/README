@@ -1,0 +1,8 @@
+Acceleromenter readings collected using Android phone when users were walking.
+
+Columns in traces:
+Time offsets in ms from the start of trace::::Time in posix:accelerometer x:accelerometer y:accelerometer z
+
+"Change Speed" appears in the trace (result of a button press from the walker) whenever he/she changes walking speed significantly.
+
+These traces are collected from 6 different individuals.
